@@ -1,4 +1,4 @@
-package lab.tdse.project.lab;
+package lab.tdse.project.ejemplos_clase;
 
 import java.lang.reflect.Method;
 

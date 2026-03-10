@@ -1,11 +1,10 @@
-package lab.tdse.project.lab;
+package lab.tdse.project.ejemplos_clase;
 
+import static java.lang.System.out;
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
 import java.lang.reflect.Member;
 import java.lang.reflect.Method;
-
-import static java.lang.System.out;
 
 public class ReflexionNavigator {
     public static void main(String[] args) {
